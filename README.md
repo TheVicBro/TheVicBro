@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevicbro&label=Profile%20views&color=0e75b6&style=flat" alt="thevicbro" /> </p>
 
-🔭 I’m currently working on 
-- [LLM Proxy](https://github.com/rout3/llmproxy) 
-- [Proxy Dashboard](https://github.com/rout3/proxy-dashboard)
-- [My Portfolio](https://github.com/TheVicBro/portfolio)
+🔭 I’m currently working 
+- at Pelmorex as a Software Engineer Intern
+- on [My Portfolio](https://github.com/TheVicBro/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
