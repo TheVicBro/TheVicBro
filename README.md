@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevicbro&label=Profile%20views&color=0e75b6&style=flat" alt="thevicbro" /> </p>
 
 🔭 I’m currently working 
-- at Pelmorex as a Software Engineer Intern
+- on grinding Leetcode 💪
 - on [My Portfolio](https://github.com/TheVicBro/portfolio)
 
 <h3 align="left">Connect with me:</h3>
