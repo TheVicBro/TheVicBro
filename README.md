@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevicbro&label=Profile%20views&color=0e75b6&style=flat" alt="thevicbro" /> </p>
 
-🔭 I’m currently working 
-- on grinding Leetcode 💪
-- on [My Portfolio](https://github.com/TheVicBro/portfolio)
+🔭 I’m currently working on
+- grinding Leetcode 💪
+- finishing my final year in Computer Engineering 🎓
+- [My Portfolio](https://github.com/TheVicBro/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
